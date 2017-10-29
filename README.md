@@ -1,4 +1,4 @@
-#Coding Challenge of Insight Data Engineer
+# Coding Challenge of Insight Data Engineer
 by Xiaodong (Sheldon) Gu
 
 1. the code is written in python with installed libraries: os, sys, numpy and pandas.
